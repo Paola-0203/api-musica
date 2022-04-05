@@ -1,0 +1,35 @@
+[
+    {
+        "id" : "1",
+        "titulo" : "Paparazzi" ,
+        "autor" : "Lady Gaga, Rob Fusari" ,
+        "interprete" : "Lady Gaga" ,
+        "productor" : "Rob Fusari",
+        "genero" : "Dance pop" ,
+        "publicacion" : "6 Julio 2009" ,
+        "duracion" : "3.28 minutos" ,
+        "album" : "Paparazzi"
+    },
+    {
+        "id" : "2",
+        "titulo" : "Lucky" ,
+        "autor" : "Max Martin, Rami Yacoub, Alexande Kronlund" ,
+        "interprete" : "Britney Spears" ,
+        "productor" : "Max Martin, Rami Yacoub",
+        "genero" : "Dance pop, Teen pop" ,
+        "publicacion" : "8 Agosto 2000" ,
+        "duracion" : "3.26 minutos" ,
+        "album" : "Oops!... I did it again"
+    },
+    {
+        "id" : "3",
+        "titulo" : "Heat waves" ,
+        "autor" : "Dave Bayley" ,
+        "interprete" : "Glass Animals" ,
+        "productor" : "Dave Bayley",
+        "genero" : "R&B contemporáneo" ,
+        "publicacion" : "29 Junio 2020" ,
+        "duracion" : "3.58 minutos",
+        "album" : "Dreamland"
+    }
+]
